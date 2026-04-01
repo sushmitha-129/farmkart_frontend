@@ -33,25 +33,6 @@ A full-stack e-commerce web application that connects farmers directly with cust
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home / Login Page
-![Login](screenshots/login.png)
-
-### 📝 Register Page
-![Register](screenshots/register.png)
-
-### 🛍️ Products Page
-![Products](screenshots/products.png)
-
-### 🛒 Cart Page
-![Cart](screenshots/cart.png)
-
-### 📦 Orders Page
-![Orders](screenshots/orders.png)
-
----
-
 ## ⚙️ Installation & Setup
 
 ```bash
